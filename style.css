@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+div {
+    background-color: #ffb6c1;
+    padding: 10px;
+}
+
+p {
+    background-color: #f8e71c;
+    padding: -10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border: solid 10px #f5a623;
+        /* Important with borders:
+        Don't put any dash or comma in it */
+    height: 200px;
+}
+
+.last {
+    margin-bottom: 0px;
+}
