@@ -1,0 +1,21 @@
+.box {
+    border: solid 2px black;
+    width: 80px;
+    height: 80px;
+}
+
+.centering {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: device-width;
+}
+
+p {
+    text-transform: uppercase;
+    color: black;
+    line-height: 0.96;
+    font-family: Roboto Slab;
+    font-size: 23px;
+    margin: 6px;
+}
